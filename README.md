@@ -5,9 +5,11 @@ Google Calendar Script. Sorts events from one master calendar into multiple sub-
 Separates events from one unsorted calendar into multiple calendars based on the event titles.
 
 **Turns this:**
+
 ![Before](/Before.png)
 
 **into this:**
+
 ![After](/After.png)
 
 ## Usage
