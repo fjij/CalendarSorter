@@ -3,7 +3,12 @@ Google Calendar Script. Sorts events from one master calendar into multiple sub-
 
 ## Example
 Separates events from one unsorted calendar into multiple calendars based on the event titles.
-**Turns this:*** ![Before](/Before.png) **into this:** ![After](/After.png)
+
+**Turns this:**
+![Before](/Before.png)
+
+**into this:**
+![After](/After.png)
 
 ## Usage
 Create a new Google Apps Script, then copy and paste the code from "Code.gs". Modify the `test()` function to suit your needs then run the `test()` function. 
